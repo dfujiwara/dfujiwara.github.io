@@ -1,8 +1,8 @@
 # Daisuke Fujiwara  
 daisuke.fujiwara@gmail.com  
-https://github.com/dfujiwara  
-https://www.linkedin.com/in/daisukefujiwara/  
-https://medium.com/@daisuke.fujiwara
+[GitHub](https://github.com/dfujiwara)
+[LinkedIn](https://www.linkedin.com/in/daisukefujiwara/)
+[Medium](https://medium.com/@daisuke.fujiwara)
 
 ---
 
@@ -17,7 +17,7 @@ __Applications/tools__: Xcode, Pycharm, vim
 ---
 ### Experience
 
-####  Nextdoor.com, San Francisco, CA 07/2011 - Present
+####  [Nextdoor.com](https://nextdoor.com), San Francisco, CA 07/2011 - Present
 __Engineering Lead - Mobile__ (2016 - Present)
   - Currently managing a team of 6 iOS and Android developers
   - Coordinate the iOS and Android [co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) with the teammates to facilitate technical discussions and cross team communication.
@@ -52,7 +52,7 @@ __Senior Software Engineer__
     - Implemented C++ programs to parse raw user log data and video records in compressed tabular form to be ingested by Hive in size that matched to HDFS block size for maximum runtime query performance
   - Improved PHP API code to prevent memcache stampede when XML/JSON API responses expire; resulting in response time decrease of up to 40%
 
-#### Syncsort Inc, Woodcliff Lake, NJ 01/2007 – 06/2010
+#### [Syncsort Inc](www.syncsort.com), Woodcliff Lake, NJ 01/2007 – 06/2010
 __Software Engineer__ (01/2007 - 06/2010)
   - Engineer for high performance data integration software, DMExpress; C++ and Microsoft Visual Studio
   - Mentored two junior engineers on the team.
@@ -61,8 +61,8 @@ __Associate Software Engineer__ (02/2005 – 12/2006)
 
 ---
 ### Education
-__M.S. in Computer Science__, Tufts University, Medford, MA  
+__M.S. in Computer Science__, [Tufts University](www.tufts.edu), Medford, MA  
 _2004_: GPA: 3.83/4.00
 
-__B.S. in Computer Science__, Tufts University, Medford, MA  
+__B.S. in Computer Science__, [Tufts University](www.tufts.edu), Medford, MA  
 _2003_: GPA: 3.74/4.00; Magna Cum Laude
