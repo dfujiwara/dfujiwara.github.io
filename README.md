@@ -18,23 +18,23 @@ __Applications/tools__: Xcode, Pycharm, vim
 ### Experience
 
 ####  [Nextdoor](https://nextdoor.com), San Francisco, CA (7/2011 - Present)
-__Engineering Lead - Mobile__ (2016 - Present)
-  - Manage a team of six iOS and Android developers
-  - Coordinate the iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) with the teammates to facilitate technical discussions and cross team communication
-  - Led the effort of app redesign which includes deep technical rearchitecting the iOS and Android main feed and navigation components as well as performance tuning
-  - Led the effort to automate release process so that any engineers can release our apps
-  - Reorganized the mobile role interview process so that interview questions are more practical and oriented around relevant mobile skill sets
-  - Hired three new mobile engineers and oversaw the mentorship of mobile interns
-  - Led the movement of adopting Swift early on and coordinated cross team update effort
-  - An active member of our [engineering blog](https://engblog.nextdoor.com) initiative
+__Engineering Lead - Mobile__ (3/2016 - Present)
+  - Manage team of six iOS and Android engineers
+  - Coordinate iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
+  - Led effort of iOS and Android app redesign which includes deep technical rearchitecting main feed and navigation components and performance tuning
+  - Led effort to automate release process so that any engineers can release our apps
+  - Reorganized mobile role interview process so that interview questions are more practical and oriented around relevant mobile skill sets
+  - Hired three new mobile engineers and oversaw mentorship of mobile interns
+  - Led movement of adopting Swift early on and coordinated cross team update effort
+  - Active member of [engineering blog](https://engblog.nextdoor.com) initiative
 
-__Staff Software Engineer__ (9/2013 - 2016)
-  - Launched the v1 and v2 of the iOS app as founding member of mobile team
+__Staff Software Engineer__ (9/2013 - 3/2016)
+  - Launched v1 and v2 of the iOS app as founding member of mobile team
   - Implemented initial Restful API in Django for mobile app
   - Managed 4 mobile engineers
   - Led internationalization of iOS and Android apps
-  - Led the team of iOS, Android, and web engineers to revamp the user profile view
-  - Introduced the the biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
+  - Led team of iOS, Android, and web engineers to revamp user profile
+  - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
 
 __Senior Software Engineer__ (7/2011 - 9/2013)
   - Implemented various Nextdoor web app features using Python/Django/Postgres
