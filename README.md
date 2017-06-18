@@ -7,8 +7,8 @@
 ---
 
 ### Skills
-__Programming__: Swift, Objective-C, Python, C++, Java, Javascript  
-__Framework__: iOS, Django, Hadoop. Hive, memcache, Thrift  
+__Programming__: Swift, Objective-C, Python, Java, Javascript, C++  
+__Frameworks__: iOS, Django, Hadoop. Hive, memcache, Thrift  
 __Scripting__: Bash, Python  
 __Databases__: Postgres  
 __Systems__: OSX, Linux  
@@ -17,30 +17,33 @@ __Applications/tools__: Xcode, Pycharm, vim
 ---
 ### Experience
 
-####  [Nextdoor.com](https://nextdoor.com), San Francisco, CA 07/2011 - Present
+####  [Nextdoor](https://nextdoor.com), San Francisco, CA (7/2011 - Present)
 __Engineering Lead - Mobile__ (2016 - Present)
-  - Currently managing a team of 6 iOS and Android developers
-  - Coordinate the iOS and Android [co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) with the teammates to facilitate technical discussions and cross team communication
+  - Manage a team of six iOS and Android developers
+  - Coordinate the iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) with the teammates to facilitate technical discussions and cross team communication
   - Led the effort of app redesign which includes deep technical rearchitecting the iOS and Android main feed and navigation components as well as performance tuning
   - Led the effort to automate release process so that any engineers can release our apps
   - Reorganized the mobile role interview process so that interview questions are more practical and oriented around relevant mobile skill sets
-  - Hired three new mobile engineers and oversaw the mentorship of handful of mobile interns
-  - Led the movement of adopting Swift early on and coordinated cross team effort to update the language
+  - Hired three new mobile engineers and oversaw the mentorship of mobile interns
+  - Led the movement of adopting Swift early on and coordinated cross team update effort
   - An active member of our [engineering blog](https://engblog.nextdoor.com) initiative
 
-__Staff Software Engineer__ (09/2013 - 2016)
-  - A founding engineer of the mobile team on the iOS platform who launched the v1 and v2 of the iOS app
-  - Implemented the Restful API for mobile app consumption
+__Staff Software Engineer__ (9/2013 - 2016)
+  - Launched the v1 and v2 of the iOS app as founding member of mobile team
+  - Implemented initial Restful API in Django for mobile app
   - Managed 4 mobile engineers
-  - Led the effort of internationalizing the mobile apps on iOS and Android. Laid down the foundation both on the client and API sides so that subsequent internal expansion requires minimal effort
-  - Spearheaded the platform initiatives for mobile to establish the solid foundation of mobile development at Nextdoor
+  - Led internationalization of iOS and Android apps
   - Led the team of iOS, Android, and web engineers to revamp the user profile view
   - Introduced the the biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
 
-__Senior Software Engineer__ (07/2011 - 09/2013)
+__Senior Software Engineer__ (7/2011 - 9/2013)
   - Implemented various Nextdoor web app features using Python/Django/Postgres
+    - User defined neighborhood flow
+    - Postcard blast
+    - New member welcome
+  - Integrated [Celery](http://www.celeryproject.org/) for asynchronous processing
 
-#### Truveo, San Francisco, CA 06/2010 - 07/2011   
+#### Truveo, San Francisco, CA (6/2010 - 7/2011)
 __Senior Software Engineer__
   - Engineer of search team for most comprehensive video search engine on internet
   - Developed API and website analytics using Hive and Hadoop streaming in Python and PHP
@@ -52,12 +55,12 @@ __Senior Software Engineer__
     - Implemented C++ programs to parse raw user log data and video records in compressed tabular form to be ingested by Hive in size that matched to HDFS block size for maximum runtime query performance
   - Improved PHP API code to prevent memcache stampede when XML/JSON API responses expire; resulting in response time decrease of up to 40%
 
-#### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ 01/2007 – 06/2010
-__Software Engineer__ (01/2007 - 06/2010)
+#### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ (2/2005 – 6/2010)
+__Software Engineer__ (1/2007 - 6/2010)
   - Engineer for high performance data integration software, DMExpress; C++ and Microsoft Visual Studio
   - Mentored two junior engineers on the team
 
-__Associate Software Engineer__ (02/2005 – 12/2006)
+__Associate Software Engineer__ (2/2005 – 12/2006)
 
 ---
 ### Education
