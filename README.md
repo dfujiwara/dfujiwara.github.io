@@ -1,7 +1,7 @@
 # Daisuke Fujiwara  
-daisuke.fujiwara@gmail.com  
-[GitHub](https://github.com/dfujiwara)
-[LinkedIn](https://www.linkedin.com/in/daisukefujiwara/)
+<daisuke.fujiwara@gmail.com> |
+[GitHub](https://github.com/dfujiwara) |
+[LinkedIn](https://www.linkedin.com/in/daisukefujiwara/) |
 [Medium](https://medium.com/@daisuke.fujiwara)
 
 ---
