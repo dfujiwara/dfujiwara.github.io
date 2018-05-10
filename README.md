@@ -7,10 +7,10 @@
 ---
 
 ### Technical skills
-__Programming__: Swift, Objective-C, Python, Javascript, Go, Java, C++
-__Frameworks__: iOS, Django, Hadoop. Hive, memcache, Thrift
-__Scripting__: Bash, Python
-__Databases__: Postgres:w
+- __Programming__: Swift, Objective-C, Python, Javascript, Go, Java, C++
+- __Frameworks__: iOS, Django, Hadoop. Hive, memcache, Thrift
+- __Scripting__: Bash, Python
+- __Databases__: Postgres:w
 
 
 ---
