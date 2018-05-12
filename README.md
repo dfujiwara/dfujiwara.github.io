@@ -19,7 +19,7 @@
 __Member of Technical Staff - Mobile__ (7/2017 - current)
   - Single handedly developed and managed the biweekly release of [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
   - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
-  - Establish the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
+  - Established the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
   - Led effort to get beta testers and collected product and technical feedback for our app
   - Proactively promoted technical documentation and helped defined clear milestones to ensure project completion
 
