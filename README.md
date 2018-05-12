@@ -24,7 +24,7 @@ __Member of Technical Staff - Mobile__ (7/2017 - current)
   - Proactively promoted technical documentation and helped defined clear milestones to ensure project completion
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
-__Engineering Lead - Mobile__ (10/2014 - 06/2017)
+__Engineering Lead - Mobile__ (10/2014 - 6/2017)
   - Managed team of 8 iOS and Android engineers
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
   - Led effort of iOS and Android app redesign which included deep technical rearchitecture of main feed and navigation components as well as performance tuning
