@@ -7,22 +7,21 @@
 ---
 
 ### Technical skills
-- __Programming__: Swift, Objective-C, Python, Javascript, Go, Java, C++
-- __Frameworks__: iOS, Django, Hadoop. Hive, memcache, Thrift
+- __Programming__: Swift, Objective-C, Python, Javascript (ES6), Go, Java, C++
+- __Frameworks__: iOS, Django 
 - __Scripting__: Bash, Python
-- __Databases__: Postgres:w
-
+- __Databases__: Postgres, Realm
 
 ---
 ## Experience
 
-###  [Muxgram](https://nextdoor.com), San Francisco, CA
+###  [Muxgram](https://muxbots.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - current)
-  - Single handedly developed and managed the biweekly release of our iOS app, [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), from inception
+  - Single handedly developed and managed the biweekly release of [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
+  - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
   - Helped establish the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
-  - Wrote, updated, and reviewed technical documentation with changing product requirements to ensure that everyone was on the same page
-  - Led effort to get beta testers and collected product and technical feedback of our app
-  - Help define milestones in projects to manage progress and ensure accurate project completion
+  - Led effort to get beta testers and collected product and technical feedback for our app
+  - Proactively promoted technical documentation and helped defined clear milestones to ensure project completion
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Lead - Mobile__ (10/2014 - 06/2017)
@@ -52,9 +51,7 @@ __Senior Software Engineer__ (7/2011 - 9/2013)
 ### Truveo, San Francisco, CA
 __Senior Software Engineer__ (6/2010 - 7/2011)
   - Engineer of search team for most comprehensive video search engine on internet
-  - Developed API and website analytics using Hive and Hadoop streaming in Python and PHP to identify key business metrics, such as:
-    - most popular queries, most clicked channels, number of uniques and crawlers, and other key metrics
-    - page views, clicks per page, number of uniques, and number of sessions per user
+  - Developed API and website analytics using Hive and Hadoop streaming in Python and PHP to identify key business metrics, such as most popular queries, most clicked channels, number of uniques and crawlers, page views, clicks per page, number of uniques, and number of sessions per user
   - Implemented a C++ program that parsed raw user log data and video records and produced compressed tabular data that was ingested by Hive in size that matched to HDFS block size for maximum runtime query performance
 
 ### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ
