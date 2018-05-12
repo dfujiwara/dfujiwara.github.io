@@ -19,21 +19,21 @@
 __Member of Technical Staff - Mobile__ (7/2017 - current)
   - Single handedly developed and managed the biweekly release of [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
   - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
-  - Helped establish the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
+  - Establish the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
   - Led effort to get beta testers and collected product and technical feedback for our app
   - Proactively promoted technical documentation and helped defined clear milestones to ensure project completion
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Lead - Mobile__ (10/2014 - 6/2017)
-  - Managed team of 8 iOS and Android engineers
+  - Grew and managed team of eight iOS and Android engineers
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
-  - Led effort of iOS and Android app redesign which included deep technical rearchitecture of main feed and navigation components as well as performance tuning
-  - Led effort to automate release process so that any engineers can release our apps
+  - Led iOS and Android app redesign which included deep technical rearchitecture of main feed and navigation components as well as performance tuning
+  - Automated release process so that any engineers can release our apps
   - Reorganized mobile role interview process so that interview questions are more practical and oriented around relevant mobile skill sets
   - Hired three new mobile engineers and oversaw direct reports' mentorship of mobile interns
-  - Led movement of adopting Swift early on and coordinated cross team update effort
+  - Spearheaded movement of adopting Swift early on and coordinated cross team update effort
   - Active member of [engineering blog](https://engblog.nextdoor.com) initiative
-  - Led internationalization of iOS and Android apps
+  - Established frameworks for internationalization of iOS and Android apps
 
 __Staff Software Engineer__ (9/2013 - 10/2014)
   - Launched v1 and v2 of the iOS app as founding member of mobile team
