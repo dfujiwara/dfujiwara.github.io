@@ -1,0 +1,11 @@
+# Daisuke Fujiwara 
+
+---
+
+# History
+
+---
+
+# Philosophies
+
+---
