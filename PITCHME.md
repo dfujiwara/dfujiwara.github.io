@@ -8,4 +8,8 @@
 
 # Philosophies
 
+## trust
+
+is #1
+
 ---
