@@ -6,15 +6,18 @@ So who am I?
 
 ---
 
-## Recent History
-
-- ![Nextdoor icon](http://www.abajournal.com/images/main_images/nextdoor1.jpg | width=100)
-
-- ![Muxgram icon](https://pbs.twimg.com/profile_images/722917188957380609/cxkIA6Pk_400x400.jpg | width=100)
+## I am
+- an aspiring break dancer
+- an avid traveler
+- a dog lover
+- an engineering manager
 
 ---
 
-# My operating values
+## Recent History
+
+- Nextdoor.com: mobile engineering manager
+- Muxgram.com: a member of 3 people start up in search of product market fit
 
 ---
 
@@ -29,7 +32,7 @@ Technology and product change, but people don't change as much
 ## 1. Trust
 
 - 1:1
-- Communication channel
+- Autonomy, accountability, ownership
 - Team activities
 
 ---
@@ -44,15 +47,13 @@ Technology and product change, but people don't change as much
 - Agree on action items on both ends for the next time
 -->
 
-Create a safe space for your direct report to openly discuss their thoughts
+Create a safe space for your direct reports to openly discuss their thoughts
 
 ---
 
-### Communication channel
+###  Autonomy + Accountability = Ownership
 
-- Responsible as the primary communication channel
-- Provide right context to the new information for your team
-- Represent your team by externally communicating team status, issues, and achievements 
+With clear goals and expectations,  allow the team to drive the project to success.
 
 ---
 
@@ -64,15 +65,18 @@ Create a safe space for your direct report to openly discuss their thoughts
 - offsites
 -->
 
-Encourage your teammates to get to know each other and create team identity. This leads to deeper team rapport and trust
+Encourage your team to get to know each other and create team identity. This leads to deeper team rapport and trust
 
 ---
 
 ## 2. Shared learnings and experiences
 
+- Team knowledge sharing 
+- Eng blog + meetups 
+
 ---
 
-### "Share your knowledge" and co-ops
+### "Share your knowledge" - Team knowledge sharing
 
 <!--
 - "Share your knowledge": Eng all hands presentation to the entire eng org
@@ -83,57 +87,46 @@ Promote inter-team learnings and help improve presentation and communication ski
 
 ---
 
-### Eng blog
+### Eng blog + meetups
 
-<!--
-- Cover various engineering topics in blogs, written by engineers  
--->
-
-Promote external presence of the engineering team and lead to more inbound engineering candidates 
+Promote external presence of the engineering team
+Discover new ideas / approaches from other eng orgs
 
 ---
 
-## 3. Small Wins
+## 3. Small wins
+
+- Focused execution
+- Feedback and data
+- Celebration
 
 ---
 
-- Enable team to feel progress and keep the momentum
-- Avoid feature creeps or imaginary problems
-- Collect relevant data as early as possible 
-- Celebrating small wins are underrated
+### Focused execution
+
+Avoid feature creep and imaginary problems; focus on what's important
 
 ---
 
-# Hard lessons
+### Feedback and Data
+
+Promote data driving thinking guided by long term strategic vision
 
 ---
 
-### 1. Decision making
+### Celebration
 
-- Wrong decision is better than indecision
-- Co-owning the result of the decision, especially when the outcome was not as expected, fosters deeper team trust 
-
----
-
-### 2. Autonomy + Accountability = Ownership
-
-- Set clear goals and expectations for the team
-- Allow the team to make appropriate decisions and drive it to the end
-- Install the sense of ownership in the success of projects
+Small wins are underrated and we should celebrate those more
 
 ---
 
-### 3. Just the right amount of processes
-
----
-
-### PlanGrid
+### Why PlanGrid?
 
 Consumer -> Enterprise
 
-Solving current real world problems 
+Solving interesting real world problems
 
-Been on my radar since 2016
+Right engineering team size and the stage of the company
 
 ---
 
