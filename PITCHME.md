@@ -2,6 +2,10 @@
 
 ---
 
+So who am I?
+
+---
+
 ## Recent History
 
 - ![Nextdoor icon](http://www.abajournal.com/images/main_images/nextdoor1.jpg | width=100)
@@ -10,15 +14,11 @@
 
 ---
 
-So why am I here today?
-
----
-
 # My operating values
 
 ---
 
-## Team
+## Enabling a highly effective team
 
 Whole is greater than the sum of parts
 
@@ -27,6 +27,7 @@ Technology and product change, but people don't change as much
 ---
 
 ## 1. Trust
+
 - 1:1
 - Communication channel
 - Team activities
@@ -35,11 +36,15 @@ Technology and product change, but people don't change as much
 
 ### 1:1
 
-- Right frequency with consistency
-- Candidness: get to know each other
-- Two way feedback channel on a regular basis
-- Commitment to follow through with what was discussed before
-- Happiness index
+<!--
+- Weekly session for ~30 minutes
+- Happiness index as a conversation starter
+- Focus on listening
+- Provide and receive fresh feedback
+- Agree on action items on both ends for the next time
+-->
+
+Create a safe space for your direct report to openly discuss their thoughts
 
 ---
 
@@ -53,9 +58,13 @@ Technology and product change, but people don't change as much
 
 ### Team activities
 
+<!--
 - Weekly team boba run
 - Dinner / Movies night out
 - offsites
+-->
+
+Encourage your teammates to get to know each other and create team identity. This leads to deeper team rapport and trust
 
 ---
 
@@ -63,11 +72,24 @@ Technology and product change, but people don't change as much
 
 ---
 
-### "Share your knowledge", co-ops, and eng blog
+### "Share your knowledge" and co-ops
 
-- Promote inter-team learnings and communications
-- Teach one, each one
-- Improve presentation and communication skills
+<!--
+- "Share your knowledge": Eng all hands presentation to the entire eng org
+- Co-ops: Bi-weeky cross team technical meetings about iOS and Android
+-->
+
+Promote inter-team learnings and help improve presentation and communication skills
+
+---
+
+### Eng blog
+
+<!--
+- Cover various engineering topics in blogs, written by engineers  
+-->
+
+Promote external presence of the engineering team and lead to more inbound engineering candidates 
 
 ---
 
