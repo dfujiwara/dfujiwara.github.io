@@ -23,16 +23,15 @@ So who am I?
 
 ## Enabling a highly effective team
 
-Whole is greater than the sum of parts
+The whole is greater than the sum of its parts
 
 Technology and product change, but people don't change as much
 
 ---
 
-## 1. Trust
+### 1. Building trust 
 
 - 1:1
-- Autonomy, accountability, ownership
 - Team activities
 
 ---
@@ -51,12 +50,6 @@ Create a safe space for your direct reports to openly discuss their thoughts
 
 ---
 
-###  Autonomy + Accountability = Ownership
-
-With clear goals and expectations,  allow the team to drive the project to success.
-
----
-
 ### Team activities
 
 <!--
@@ -69,14 +62,15 @@ Encourage your team to get to know each other and create team identity. This lea
 
 ---
 
-## 2. Shared learnings and experiences
+### 2. 1 + 1 = 3, enabling team 
 
-- Team knowledge sharing 
-- Eng blog + meetups 
+- Team knowledge sharing session 
+- Mentorship
+- Autonomy, accountability, ownership
 
 ---
 
-### "Share your knowledge" - Team knowledge sharing
+### Team knowledge sharing session
 
 <!--
 - "Share your knowledge": Eng all hands presentation to the entire eng org
@@ -87,30 +81,28 @@ Promote inter-team learnings and help improve presentation and communication ski
 
 ---
 
-### Eng blog + meetups
+### Mentorship (interns / new hires)
 
-Promote external presence of the engineering team
-Discover new ideas / approaches from other eng orgs
+Provide opportunities to learn how to scale influence and responsibility beyond one's own work
 
 ---
 
-## 3. Small wins
+###  Autonomy + Accountability = Ownership
+
+With clear goals and expectations, allow the team to drive the project to success.
+
+---
+
+### 3. Winning with the team
 
 - Focused execution
-- Feedback and data
 - Celebration
 
 ---
 
 ### Focused execution
 
-Avoid feature creep and imaginary problems; focus on what's important
-
----
-
-### Feedback and Data
-
-Promote data driving thinking guided by long term strategic vision
+Focus on what's important; keep the team momentum and morale high
 
 ---
 
