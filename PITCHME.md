@@ -45,7 +45,8 @@ Technology and product change, but people don't change as much
 
 ### Find engineers that complement the team
 
-- Potential as a team member > absolute technical abilities 
+- Iterating interviewing process
+- Training
 
 ---
 
