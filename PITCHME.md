@@ -24,50 +24,40 @@ Muxgram.com: a member of 3 people start up in search of product market fit
 
 ## Team
 
-The whole is greater than the sum of its parts
+"The whole is greater than the sum of its parts"
 
 Technology and product change, but people don't change as much
 
 ---
 
-## Highly effective team
-
-- Collaboration
-- Autonomy + accountability
-- Trust
+## How I built my team
 
 ---
 
-### 1. Collaboration
+### Provide growth opportunities
 
-- Knowledge share sessions 
-- Share ideas early on instead of finished products
-- Blogs and meetups
-
-Create a space to learn from and teach to each other for better outcome
-
----
-
-### 2. Autonomy + accountability
-
-- "What do you think?" 
-- "Can you go figure it out and get back to me?"
-- Mentorship opportunities
-
-Create a space for creativity and responsibility beyond one's own work
+- Knowledge sharing
+- Mentorships
+- Blog and meetups
+- Offloading parts of my responsibilities 
 
 ---
 
-### 3. Trust
+### Find engineers that complement the team
+
+- Potential as a team member > absolute technical abilities 
+
+---
+
+### Building Trust
 
 - 1:1
 - Team activities
-
-Create a safe space for your direct reports to openly discuss their thoughts and establish team identity
+- Continuous course correction 
 
 ---
 
-Not easy, but it's such a rewarding experience
+Not easy, but it was such a rewarding experience
 
 ---
 
@@ -75,7 +65,7 @@ Not easy, but it's such a rewarding experience
 
 Consumer -> Enterprise
 
-Solving interesting real world problems
+Solving interesting real world problems, mobile first!
 
 Right engineering team size and the stage of the company
 
