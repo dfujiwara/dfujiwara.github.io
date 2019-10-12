@@ -1,4 +1,4 @@
-# Daisuke Fujiwara  
+# Daisuke Fujiwara
 <daisuke.fujiwara@gmail.com> |
 [GitHub](https://github.com/dfujiwara) |
 [LinkedIn](https://www.linkedin.com/in/daisukefujiwara/) |
@@ -7,16 +7,22 @@
 ---
 
 ### Technical skills
-- __Programming__: Swift, Objective-C, Python, Javascript (ES6), Go, Java, C++
-- __Frameworks__: iOS, Django 
+- __Programming__: Swift / Objective-C, Python, Javascript (ES6), Go
+- __Frameworks__: iOS, Django
 - __Scripting__: Bash, Python
 - __Databases__: Postgres, Realm
 
 ---
 ## Experience
 
+###  [PlanGrid / Autodesk ](https://plangrid.com), San Francisco, CA
+__Engineering Manager__ (10/2018 - current)
+  - Hired three direct reports in the span of three months to start up the brand new team; current manage four direct reports
+  - Collaborated and delivered the BuildingConnected & PlanGrid integration project in three months to the market which received positive feedback
+  - Worked across various Autodesk extended reality teams to deliver the technical white paper around extended reality in the construction industry
+
 ###  [Muxgram](https://muxbots.com), San Francisco, CA
-__Member of Technical Staff - Mobile__ (7/2017 - current)
+__Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
   - Single handedly developed and managed the biweekly release of [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
   - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
   - Established the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
@@ -56,9 +62,6 @@ __Senior Software Engineer__ (6/2010 - 7/2011)
 
 ### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ
 __Software Engineer__ (1/2007 - 6/2010)
-  - Engineer for high performance data integration software, DMExpress; C++ and Microsoft Visual Studio
-  - Mentored two junior engineers on the team
-
 __Associate Software Engineer__ (2/2005 – 12/2006)
 
 ---
