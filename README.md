@@ -17,8 +17,8 @@
 
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
-  - Hired three direct reports in the span of three months to start up the new team; currently manage four direct reports
-  - Delivered the BuildingConnected & PlanGrid integration project in three months to the market with positive feedback market
+  - Grew the brand new team to three direct reports in the span of three months; currently manage four direct reports
+  - Delivered the BuildingConnected & PlanGrid integration project in three months resulting in positive feedback market
   - Worked across various extended reality (XR) teams at Autodesk to deliver the technical white paper around XR in the construction industry
 
 ###  [Muxgram](https://muxbots.com), San Francisco, CA
