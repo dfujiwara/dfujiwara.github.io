@@ -17,11 +17,12 @@
 
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
-  - Grew the brand new team to three direct reports in the span of three months; currently manage four direct reports
-  - Delivered the BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of the top customers utilizing the integration
-  - Worked across various extended reality (XR) teams at Autodesk to deliver the XR technical white paper and prototype for construction
+  - Grew brand new team to three direct reports in the span of three months
+  - Led effort to launch video support in beta on iOS, Android, Windows, and web
+  - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
+  - Currently working to deliver XR technical white paper and Hololens prototype application for construction industry
 
-###  [Muxgram](https://muxbots.com), San Francisco, CA
+###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
   - Single handedly developed and managed the biweekly release of [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
   - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
@@ -30,7 +31,7 @@ __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
   - Proactively promoted technical documentation and helped defined clear milestones to ensure project completion
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
-__Engineering Lead - Mobile__ (10/2014 - 6/2017)
+__Engineering Manager - Mobile__ (10/2014 - 6/2017)
   - Grew and managed team of eight iOS and Android engineers
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
   - Led iOS and Android app redesign which included deep technical rearchitecture of main feed and navigation components as well as performance tuning
@@ -56,13 +57,10 @@ __Senior Software Engineer__ (7/2011 - 9/2013)
 
 ### Truveo, San Francisco, CA
 __Senior Software Engineer__ (6/2010 - 7/2011)
-  - Engineer of search team for most comprehensive video search engine on internet
-  - Developed API and website analytics using Hive and Hadoop streaming in Python and PHP to identify key business metrics, such as most popular queries, most clicked channels, number of uniques and crawlers, page views, clicks per page, number of uniques, and number of sessions per user
-  - Implemented a C++ program that parsed raw user log data and video records and produced compressed tabular data that was ingested by Hive in size that matched to HDFS block size for maximum runtime query performance
+  - Developed analytics using Hive and Hadoop streaming in Python and PHP to identify key business metrics, such as most popular queries, most clicked channels, and number of sessions per user
 
 ### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ
-__Software Engineer__ (1/2007 - 6/2010)
-__Associate Software Engineer__ (2/2005 – 12/2006)
+__Software Engineer__ (2/2005 - 6/2010)
 
 ---
 ## Education
