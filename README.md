@@ -17,10 +17,10 @@
 
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
-  - Grew brand new team to three direct reports in the span of three months
-  - Led effort to launch video support in beta on iOS, Android, Windows, and web
+  - Grew brand new team to three direct reports in the span of three months; hired another engineer in two months
+  - Completed XR technical white paper and Hololens prototype application for construction industry in three months
   - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
-  - Currently working to deliver XR technical white paper and Hololens prototype application for construction industry
+  - Led effort to launch video support in beta on iOS, Android, Windows, and web
 
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
