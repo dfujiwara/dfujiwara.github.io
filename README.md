@@ -4,27 +4,19 @@
 [LinkedIn](https://www.linkedin.com/in/daisukefujiwara/) |
 [Medium](https://medium.com/@daisuke.fujiwara)
 
----
-
-### Technical skills
-- __Programming__: Swift / Objective-C, Python, Javascript (ES6), Go
-- __Frameworks__: iOS, Django
-- __Scripting__: Bash, Python
-- __Databases__: Postgres, Realm
-
----
 ## Experience
 
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
-  - Grew brand new team to three direct reports in the span of three months; hired another engineer in two months
+  - Grew brand new product engineering team to seven direct reports
+  - Delivered major initiatives (home page, onboarding framework, and invitation flow) for the new product line launch in five months
   - Completed XR technical white paper and Hololens prototype application for construction industry in three months
   - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
-  - Led effort to launch video support in beta on iOS, Android, Windows, and web
+  - Led effort to launch video support in beta on iOS, Android, Windows, and web in three months
 
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
-  - Single handedly developed and managed the biweekly release of [Muxbots](https://itunes.apple.com/us/app/muxbots/id1260001275?mt=8), iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
+  - Single handedly developed and managed the biweekly release of Muxbots, iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
   - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
   - Established the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
   - Led effort to get beta testers and collected product and technical feedback for our app
@@ -61,6 +53,12 @@ __Senior Software Engineer__ (6/2010 - 7/2011)
 
 ### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ
 __Software Engineer__ (2/2005 - 6/2010)
+
+---
+## Technical skills
+- __Programming__: Python, Typescript / Javascript (ES6), Swift / Objective-C, Go
+- __Frameworks__: iOS, Django, React
+- __Databases__: Postgres, Realm
 
 ---
 ## Education
