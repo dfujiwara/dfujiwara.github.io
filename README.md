@@ -4,11 +4,12 @@
 [LinkedIn](https://www.linkedin.com/in/daisukefujiwara/) |
 [Medium](https://medium.com/@daisuke.fujiwara)
 
+---
 ## Experience
 
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
-  - Grew brand new product engineering team to seven direct reports
+  - Grew brand new product engineering team to seven direct reports (backend, frontend, mobile)
   - Delivered major initiatives (home page, onboarding framework, and invitation flow) for the new product line launch in five months
   - Completed XR technical white paper and Hololens prototype application for construction industry in three months
   - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
