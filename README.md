@@ -10,7 +10,7 @@
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
   - Grew brand new product engineering team to seven direct reports (backend, frontend, mobile)
-  - Participate in technical design discussion from early on and perform code review as needed
+  - Participate in technical design discussion from early on and perform code reviews as needed
   - Collaborate with product / design counterparts and engineering management peers to deliver cross-team initiatives for new product line in five months
     - Home page,
     - Onboarding framework
