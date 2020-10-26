@@ -10,7 +10,11 @@
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
   - Grew brand new product engineering team to seven direct reports (backend, frontend, mobile)
-  - Delivered major initiatives (home page, onboarding framework, and invitation flow) for the new product line launch in five months
+  - Participate in technical design discussion from early on and perform code review as needed
+  - Collaborate with product / design counterparts and engineering management peers to deliver cross-team initiatives for new product line in five months
+    - Home page,
+    - Onboarding framework
+    - Invitation flow
   - Completed XR technical white paper and Hololens prototype application for construction industry in three months
   - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
   - Led effort to launch video support in beta on iOS, Android, Windows, and web in three months
@@ -25,19 +29,18 @@ __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Manager - Mobile__ (10/2014 - 6/2017)
-  - Grew and managed team of eight iOS and Android engineers
+  - Grew and managed team of eight iOS and Android engineers and handful of interns, managed by direct reports
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
-  - Led iOS and Android app redesign which included deep technical rearchitecture of main feed and navigation components as well as performance tuning
-  - Automated release process so that any engineers can release our apps
-  - Reorganized mobile role interview process so that interview questions are more practical and oriented around relevant mobile skill sets
-  - Hired three new mobile engineers and oversaw direct reports' mentorship of mobile interns
+  - Led iOS and Android app redesign which involved deep technical rearchitecture of main feed, navigation components, and performance tuning
+  - Automated mobile app release process to enable any engineers to submit the apps
+  - Reorganized mobile interview process to better align the questions with relevant and necessary skill sets
   - Spearheaded movement of adopting Swift early on and coordinated cross team update effort
   - Active member of [engineering blog](https://engblog.nextdoor.com) initiative
   - Established frameworks for internationalization of iOS and Android apps
 
 __Staff Software Engineer__ (9/2013 - 10/2014)
   - Launched v1 and v2 of the iOS app as founding member of mobile team
-  - Implemented initial API in Python/Django for mobile app
+  - Implemented initial mobile API in Django for mobile apps
   - Led team of iOS, Android, and web engineers to revamp user profile feature
   - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
 
