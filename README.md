@@ -14,15 +14,19 @@ ___
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - current)
   - Grew brand new product engineering team to seven direct reports (backend, frontend, mobile)
-  - Participate in technical design discussion from early on and perform code reviews as needed to ensure team's momentum
-  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives for new product line in five months
+  - Set the engineering vision and standard for the team to empower engineers
+    - Engineering values
+    - Project delivery process (meetings, documentation standards, and task management)
+    - Hiring practices
+  - Actively participated in technical design discussions and perform code reviews as needed to ensure team's momentum
+  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives
     - Home page
     - Onboarding framework
-    - Invitation flow
-  - Completed XR technical white paper and Hololens prototype application for executive review in three months
-  - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
-  - Led effort to launch highly requested video support in beta on iOS, Android, Windows, and web in three months with cross team collaboration
-
+    - Members page and invitation flow
+    - Sample project data duplication
+    - XR technical white paper and Hololens prototype application for executive review in three months
+    - Launched highly requested video support in beta on iOS, Android, Windows, and web in three months
+    - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
   - Single handedly developed and managed the biweekly release of Muxbots, iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
@@ -41,23 +45,16 @@ __Engineering Manager - Mobile__ (10/2014 - 6/2017)
   - Spearheaded movement of adopting Swift early on and coordinated cross team update effort
   - Active member of [engineering blog](https://engblog.nextdoor.com) initiative
   - Established frameworks for internationalization of iOS and Android apps
+  - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
 
 __Staff Software Engineer__ (9/2013 - 10/2014)
-  - Launched v1 and v2 of the iOS app as founding member of mobile team
-  - Implemented initial mobile API in Django for mobile apps
-  - Led team of iOS, Android, and web engineers to revamp user profile feature
-  - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
+  - Launched v1 and v2 of the iOS app and mobile API as founding member of mobile team
 
 __Senior Software Engineer__ (7/2011 - 9/2013)
   - Implemented various Nextdoor web app features using Python/Django/Postgres
-    - User defined neighborhood flow
-    - Postcard blast
-    - New member welcome
-  - Integrated [Celery](http://www.celeryproject.org/) into the codebase for asynchronous processing
 
 ### Truveo, San Francisco, CA
 __Senior Software Engineer__ (6/2010 - 7/2011)
-  - Developed analytics using Hive and Hadoop streaming in Python and PHP to identify key business metrics, such as most popular queries, most clicked channels, and number of sessions per user
 
 ### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ
 __Software Engineer__ (2/2005 - 6/2010)
