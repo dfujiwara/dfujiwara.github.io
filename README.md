@@ -18,6 +18,8 @@ __Engineering Manager__ (10/2018 - current)
     - Engineering values
     - Project delivery process (meetings, documentation standards, and task management)
     - Hiring practices
+    - Knowledge share sessions
+    - Continuous peer feedback framework
   - Actively participated in technical design discussions and perform code reviews as needed to ensure team's momentum
   - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives
     - Home page
