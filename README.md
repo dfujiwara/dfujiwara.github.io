@@ -1,15 +1,13 @@
-# Daisuke Fujiwara
+## Daisuke Fujiwara
 <daisuke.fujiwara@gmail.com> |
 [GitHub](https://github.com/dfujiwara) |
 [LinkedIn](https://www.linkedin.com/in/daisukefujiwara/) |
 [Medium](https://medium.com/@daisuke.fujiwara)
 
----
-## Summary
+## <u>Summary</u>
 Versatile technical engineering leader with experience in running both product and platform teams. Emphasize team cohesion and growth, strive for engineering execution excellence, and form strong partnership with product and design counterparts.
 
-___
-## Experience
+## <u>Experience</u>
 
 ###  [Composit](https://composit.carrd.co), San Francisco, CA
 __CTO / Cofounder__ (12/2021 - Current)
@@ -64,16 +62,7 @@ __Senior Software Engineer__ (6/2010 - 7/2011)
 ### [Syncsort Inc](https://www.syncsort.com), Woodcliff Lake, NJ
 __Software Engineer__ (2/2005 - 6/2010)
 
----
-## Technical skills
+## <u>Technical skills</u>
 - __Programming__: Typescript / Javascript, Python, Swift / Objective-C, Go
 - __Frameworks__: React, Nest.js, iOS, Django
 - __Databases__: Postgres, Realm
-
----
-## Education
-__M.S. in Computer Science__, [Tufts University](https://www.tufts.edu), Medford, MA
-_2004_: GPA: 3.83/4.00
-
-__B.S. in Computer Science__, [Tufts University](https://www.tufts.edu), Medford, MA
-_2003_: GPA: 3.74/4.00; Magna Cum Laude
