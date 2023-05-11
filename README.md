@@ -11,35 +11,40 @@ Versatile technical engineering leader with experience in running both product a
 ___
 ## Experience
 
+###  [Composit](https://composit.carrd.co), San Francisco, CA
+__CTO / Cofounder__ (12/2021 - Current)
+  - Co-founded a company with two others to develop a safety compliance product in the food and beverage industry
+  - Led three engineers to deliver an MVP in three months
+  - Drove product initiatives and customer research to identify the MVP scope and value propositions
+  - As a full stack engineer, developed many core features both on backend and frontend to meet customer feature requests
+
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
-__Engineering Manager__ (10/2018 - current)
-  - Grew brand new product engineering team to seven direct reports (backend, frontend, mobile)
+__Engineering Manager__ (10/2018 - 12/2021)
+  - Grew a brand new product engineering team to seven direct reports (backend, frontend, mobile)
   - Set the engineering vision and standard for the team to empower engineers
     - Engineering values
     - Project delivery process (meetings, documentation standards, and task management)
     - Hiring practices
     - Knowledge share sessions
     - Continuous peer feedback framework
-  - Actively participated in technical design discussions and perform code reviews as needed to ensure team's momentum
-  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives
+  - Actively participated in technical design discussions and performed code reviews as needed to ensure the team's momentum
+  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives on time
     - Home page
     - Onboarding framework
     - Members page and invitation flow
     - Sample project data duplication
-    - XR technical white paper and Hololens prototype application for executive review in three months
-    - Launched highly requested video support in beta on iOS, Android, Windows, and web in three months
+    - Launched highly requested video support on iOS, Android, Windows, and web in three months
     - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
+
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
   - Single handedly developed and managed the biweekly release of Muxbots, iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
-  - Set up continuous integration and delivery pipelines for the iOS app using [Bitrise](https://bitrise.io)
   - Established the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
-  - Led effort to get beta testers and collected product and technical feedback for our app
-  - Proactively promoted technical documentation and helped defined clear milestones to ensure project completion
+  - Led the effort to get beta testers and collected product feedback for the app
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Manager - Mobile__ (10/2014 - 6/2017)
-  - Grew and managed team of eight iOS and Android engineers and handful of interns, managed by direct reports
+  - Grew and led a team of eight iOS and Android engineers
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
   - Led iOS and Android app redesign which involved deep technical rearchitecture of main feed, navigation components, and performance tuning
   - Automated mobile app release process to enable any engineers to submit the apps
@@ -50,10 +55,8 @@ __Engineering Manager - Mobile__ (10/2014 - 6/2017)
   - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
 
 __Staff Software Engineer__ (9/2013 - 10/2014)
-  - Launched v1 and v2 of the iOS app and mobile API as founding member of mobile team
 
 __Senior Software Engineer__ (7/2011 - 9/2013)
-  - Implemented various Nextdoor web app features using Python/Django/Postgres
 
 ### Truveo, San Francisco, CA
 __Senior Software Engineer__ (6/2010 - 7/2011)
@@ -63,8 +66,8 @@ __Software Engineer__ (2/2005 - 6/2010)
 
 ---
 ## Technical skills
-- __Programming__: Python, Typescript / Javascript (ES6), Swift / Objective-C, Go
-- __Frameworks__: iOS, Django, React
+- __Programming__: Typescript / Javascript, Python, Swift / Objective-C, Go
+- __Frameworks__: React, Nest.js, iOS, Django
 - __Databases__: Postgres, Realm
 
 ---
