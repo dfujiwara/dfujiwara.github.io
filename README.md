@@ -5,7 +5,7 @@
 [Medium](https://medium.com/@daisuke.fujiwara)
 
 ## <u>Summary</u>
-Versatile technical engineering leader with experience in running both product and platform teams. Emphasize team cohesion and growth, strive for engineering execution excellence, and form strong partnership with cross-functional counterparts.
+A versatile technical engineering leader with experience in running both product and platform teams. Emphasize team cohesion and growth, strive for engineering execution excellence, and form strong partnership with cross-functional counterparts.
 
 ## <u>Experience</u>
 
