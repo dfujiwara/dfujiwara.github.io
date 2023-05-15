@@ -19,7 +19,7 @@ __CTO / Cofounder__ (12/2021 - Current)
 ###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - 12/2021)
   - Grew a brand new product engineering team to seven direct reports (backend, frontend, mobile)
-  - Set the engineering vision and standard for the team to empower engineers
+  - Set the engineering vision and standard for the team to empower engineers such as:
     - Engineering values
     - Project delivery process (meetings, documentation standards, and task management)
     - Hiring practices
@@ -31,14 +31,12 @@ __Engineering Manager__ (10/2018 - 12/2021)
     - Onboarding framework
     - Members page and invitation flow
     - Sample project data duplication
-    - Launched highly requested video support on iOS, Android, Windows, and web in three months
-    - Delivered BuildingConnected & PlanGrid integration project in three months resulting in great market reception and 50% of top customers using the integration
+    - Video support on iOS, Android, Windows, and web
+    - BuildingConnected & PlanGrid integration project resulting in 50% of top customers usage
 
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
   - Single handedly developed and managed the biweekly release of Muxbots, iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore)
-  - Established the data drive culture by setting up product metric dashboards using [BigQuery](https://cloud.google.com/bigquery/) and [Google DataStudio](https://datastudio.google.com/)
-  - Led the effort to get beta testers and collected product feedback for the app
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Manager - Mobile__ (10/2014 - 6/2017)
