@@ -5,7 +5,7 @@
 [Medium](https://medium.com/@daisuke.fujiwara)
 
 ## <u>Summary</u>
-Versatile technical engineering leader with experience in running both product and platform teams. Emphasize team cohesion and growth, strive for engineering execution excellence, and form strong partnership with product and design counterparts.
+Versatile technical engineering leader with experience in running both product and platform teams. Emphasize team cohesion and growth, strive for engineering execution excellence, and form strong partnership with cross-functional counterparts.
 
 ## <u>Experience</u>
 
@@ -26,7 +26,7 @@ __Engineering Manager__ (10/2018 - 12/2021)
     - Knowledge share sessions
     - Continuous peer feedback framework
   - Actively participated in technical design discussions and performed code reviews as needed to ensure the team's momentum
-  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives on time
+  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives
     - Home page
     - Onboarding framework
     - Members page and invitation flow
@@ -42,14 +42,15 @@ __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Manager - Mobile__ (10/2014 - 6/2017)
-  - Grew and led a team of eight iOS and Android engineers
+  - Grew and led a team of eight iOS and Android platform engineers
+  - Led major mobile initiatives for both iOS and Android
+    - iOS and Android v2 app which involved deep technical rearchitecture of main feed, navigation components, and performance tuning
+    - Ongoing automated localization framework
+    - Release automation to enable the weekly app release cycles
+    - New mobile engineering onboarding workflow to the mobile talent in the organization
+  - Revamped mobile interview process for better alignment across the teams
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication
-  - Led iOS and Android app redesign which involved deep technical rearchitecture of main feed, navigation components, and performance tuning
-  - Automated mobile app release process to enable any engineers to submit the apps
-  - Reorganized mobile interview process to better align the questions with relevant and necessary skill sets
-  - Spearheaded movement of adopting Swift early on and coordinated cross team update effort
   - Active member of [engineering blog](https://engblog.nextdoor.com) initiative
-  - Established frameworks for internationalization of iOS and Android apps
   - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing
 
 __Staff Software Engineer__ (9/2013 - 10/2014)
@@ -64,5 +65,5 @@ __Software Engineer__ (2/2005 - 6/2010)
 
 ## <u>Technical skills</u>
 - __Programming__: Typescript / Javascript, Python, Swift / Objective-C, Go
-- __Frameworks__: React, Nest.js, iOS, Django
+- __Frameworks__: React, Nest.js / Node.js, iOS, Django
 - __Databases__: Postgres, Realm
