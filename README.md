@@ -5,7 +5,7 @@
 [Medium](https://medium.com/@daisuke.fujiwara)
 
 ## <u>Summary</u>
-Versatile technical engineering leader with a proven track record of successfully leading both product and platform teams in various startup stages. Skilled in driving team cohesion and growth, consistently achieving engineering excellence, and fostering strong partnerships with cross-functional counterparts and peer engineering leaders. Known for delivering impactful business results through pragmatic engineering solutions. Passionate about driving efficiency with empowerment and tackling customer problems. Adept at adapting to dynamic environments and guiding teams through rapid growth and changes.
+Versatile technical engineering leader with a proven track record of successfully leading both product and platform teams in various company stages. Skilled in driving team cohesion and growth, consistently achieving engineering excellence, and fostering strong partnerships with cross-functional counterparts and peer engineering leaders. Known for delivering impactful business results through pragmatic engineering solutions. Passionate about driving efficiency with empowerment and tackling customer problems.
 
 
 ## <u>Experience</u>
