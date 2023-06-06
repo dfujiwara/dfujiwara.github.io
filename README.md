@@ -11,7 +11,7 @@ Versatile technical engineering leader with a proven track record of successfull
 ## <u>Experience</u>
 
 ###  [Composit](https://composit.carrd.co), San Francisco, CA
-__CTO / Co-founder__ (12/2021 - Current)
+__CTO / Co-founder__ (12/2021 - 6/2023)
   - Co-founded a company to develop a safety compliance SasS product in the food and beverage industry.
   - Drove product initiatives and customer research to identify the product scope and value propositions.
   - Developed the core feature of OCR and rule based engine to parse key data points from unstructured compliance documents to avoid manual entry and human errors.
