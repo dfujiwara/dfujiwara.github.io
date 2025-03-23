@@ -29,19 +29,14 @@ __CTO/Co-founder__ (12/2021 - 6/2023)
 ###  [PlanGrid/Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - 12/2021)
   - Grew a brand-new product engineering team to seven direct reports (backend, frontend, mobile).
-  - Set the engineering vision and standard for the team to empower engineers such as:
-    - Engineering values
-    - Project delivery process (meetings, documentation standards, and task management)
-    - Hiring practices
-    - Knowledge share sessions
-    - Continuous peer feedback framework
+  - Established engineering standards and processes for team empowerment, including delivery process, and hiring practices.
   - Collaborated with product/design counterparts and engineering management peers to deliver cross-team initiatives for [Autodesk Construction Cloud](https://construction.autodesk.com) launch.
     - Developed a data-driven home page that personalized content based on user activity and project status.
     - Responsible for the onboarding workflow which includes generating initial projects to support enterprise-scale deployments.
     - Launched the fault-tolerant data archiving feature that collected large amounts of construction project documents.
   - Actively participated in technical design discussions and performed code reviews as needed to ensure the team's momentum.
-  - Led the video support project on mobile and web for PlanGrid, successfully launching to the first customer in three months.
-  - Collaborated with the BuildingConnected team to complete the PlanGrid integration, adopted by 50% of top customers.
+  - Led video support project from conception to first customer launch in three months
+  - Completed PlanGrid-BuildingConnected integration, adopted by 50% of top customers
 
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
