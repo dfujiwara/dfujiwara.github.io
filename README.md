@@ -5,54 +5,61 @@
 [Medium](https://medium.com/@daisuke.fujiwara)
 
 ## <u>Summary</u>
-Versatile technical engineering leader with a proven track record of successfully leading both product and platform teams in various company stages. Skilled in driving team cohesion and growth, consistently achieving engineering excellence, and fostering strong partnerships with cross-functional counterparts and peer engineering leaders. Known for delivering impactful business results through pragmatic engineering solutions. Passionate about driving efficiency with empowerment and tackling customer problems.
-
+Engineering leader with 15+ years of experience building and scaling high-performing teams across startups and public companies. Deep technical background in mobile, web, and enterprise platforms, with proven success in both product and platform engineering. Track record of delivering impactful business results through pragmatic solutions, from early-stage product development to enterprise-scale systems. Known for driving team growth and cohesion, fostering cross-functional partnerships, and mentoring engineers at all levels. Passionate about building efficient, empowered teams that solve real customer problems.
 
 ## <u>Experience</u>
 
+###  [Asana](https://asana.com), San Francisco, CA
+__Senior Engineering Manager (L6)__ (8/2023 - present)
+  - Led 11 engineers for the Authorization team within the Enterprise organization.
+  - Revamped the team in the first three months by hiring four engineers, including L6 technical leader and senior (L5) engineers.
+  - Launched Custom Field View and Edit permissions, long-anticipated features for enterprise customers. 50% of the top 100 enterprise customers have adopted the features.
+  - Completed the long-standing one-year effort to migrate the permissions systems from restricted to additive.
+  - Promoted multiple L4 engineers to L5 by coaching them on leading a large project and handling complex technical problems.
+  - Mentored multiple peer L5 EMs across the Enterprise organization on topics such as succession plan, cross-functional collaboration, and identifying strengths and areas of growth of senior engineers.
+  - Organized "Couch Time" - a tech talk series - to lead the effort to increase cross-team knowledge share.
+
 ###  [Composit](https://composit.carrd.co), San Francisco, CA
-__CTO / Co-founder__ (12/2021 - 6/2023)
-  - Co-founded a company to develop a safety compliance SasS product in the food and beverage industry.
+__CTO/Co-founder__ (12/2021 - 6/2023)
+  - Co-founded a company to develop a safety compliance SaaS product in the food and beverage industry.
   - Drove product initiatives and customer research to identify the product scope and value propositions.
-  - Developed the core feature of OCR and rule based engine to parse key data points from unstructured compliance documents to avoid manual entry and human errors.
+  - Developed the core feature of OCR and rule-based engine to parse key data points from unstructured compliance documents to avoid manual entry and human errors.
   - Led three engineers to deliver the initial product in three months.
 
-###  [PlanGrid / Autodesk](https://plangrid.com), San Francisco, CA
+###  [PlanGrid/Autodesk](https://plangrid.com), San Francisco, CA
 __Engineering Manager__ (10/2018 - 12/2021)
-  - Grew a brand new product engineering team to seven direct reports (backend, frontend, mobile).
+  - Grew a brand-new product engineering team to seven direct reports (backend, frontend, mobile).
   - Set the engineering vision and standard for the team to empower engineers such as:
     - Engineering values
     - Project delivery process (meetings, documentation standards, and task management)
     - Hiring practices
     - Knowledge share sessions
     - Continuous peer feedback framework
-  - Collaborated with product / design counterparts and engineering management peers to deliver cross-team initiatives for [Autodesk Construction Cloud](https://construction.autodesk.com) launch.
-    - Developed data-driven home page both for web and mobile.
-    - Responsible for the onboarding workflow which includes generating initial projects for scale.
-    - Launched the fault-tolerant data archiving feature that collected large amount of construction project documents.
+  - Collaborated with product/design counterparts and engineering management peers to deliver cross-team initiatives for [Autodesk Construction Cloud](https://construction.autodesk.com) launch.
+    - Developed a data-driven home page that personalized content based on user activity and project status.
+    - Responsible for the onboarding workflow which includes generating initial projects to support enterprise-scale deployments.
+    - Launched the fault-tolerant data archiving feature that collected large amounts of construction project documents.
   - Actively participated in technical design discussions and performed code reviews as needed to ensure the team's momentum.
-  - Led the video support project on mobile and web for PlanGrid to be launched to the first customer in 3 months.
-  - Collaborated with the BuildingConnected team to complete the PlanGrid integration, resulting in 50% of top customers usage.
+  - Led the video support project on mobile and web for PlanGrid, successfully launching to the first customer in three months.
+  - Collaborated with the BuildingConnected team to complete the PlanGrid integration, adopted by 50% of top customers.
 
 ###  [Muxgram](https://muxgram.com), San Francisco, CA
 __Member of Technical Staff - Mobile__ (7/2017 - 10/2018)
-  - Developed Muxbots, iOS app that runs third party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore).
+  - Developed Muxbots, iOS app that runs third-party chatbot code in [JavascriptCore](https://developer.apple.com/documentation/javascriptcore).
 
 ###  [Nextdoor](https://nextdoor.com), San Francisco, CA
 __Engineering Manager - Mobile__ (10/2014 - 6/2017)
   - Grew and led a team of eight iOS and Android platform engineers.
   - Led major mobile initiatives for both iOS and Android.
-    - launched iOS and Android v2 app which involved deep technical re-architecture of main feed and performance improvements.
-    - automated localization framework to enable international expansion.
-    - revamped release automation to enable the weekly app release cycles to speed up feedback and feature launches.
-    - introduced mobile engineering onboarding to scale mobile talent in the organization.
+    - Launched iOS and Android v2 app with a complete redesign of the main feed and significant performance improvements.
+    - Automated localization framework to enable international expansion.
+    - Revamped release automation to enable weekly app release cycles to speed up feedback and feature launches.
+    - Introduced mobile engineering onboarding to scale mobile development expertise in the organization.
   - Revamped mobile interview process for better alignment across the teams.
-  - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross team communication.
+  - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross-team communication.
   - Actively participated in the [engineering blog](https://engblog.nextdoor.com) initiative.
-  - Introduced biweekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing.
-
+  - Introduced bi-weekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing.
 __Staff Software Engineer__ (9/2013 - 10/2014)
-
 __Senior Software Engineer__ (7/2011 - 9/2013)
 
 ### Truveo, San Francisco, CA
