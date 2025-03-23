@@ -54,7 +54,9 @@ __Engineering Manager - Mobile__ (10/2014 - 6/2017)
   - Coordinated iOS and Android [Co-ops](https://engblog.nextdoor.com/co-ops-at-nextdoor-e0d64c2830b2) to facilitate technical discussions and cross-team communication.
   - Actively participated in the [engineering blog](https://engblog.nextdoor.com) initiative.
   - Introduced bi-weekly ["Share your knowledge"](https://engblog.nextdoor.com/share-your-knowledge-98119b4f7c4b) sessions for knowledge sharing.
+
 __Staff Software Engineer__ (9/2013 - 10/2014)
+
 __Senior Software Engineer__ (7/2011 - 9/2013)
 
 ### Truveo, San Francisco, CA
